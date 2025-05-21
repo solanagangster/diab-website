@@ -1,1 +1,0 @@
-# DIAB Website with Wallet Connect\nConnect your Solana wallet and join the underworld.
